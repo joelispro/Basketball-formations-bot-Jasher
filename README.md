@@ -17,13 +17,13 @@ while True:
       counter += 1
     if each_word == "122":
       Basketballformations_list.append("122")
-      information_list.append("that there is 3 lines of defense in 122 form")
+      information_list.append("that there is 3 lines of defense in 122 form which is a very good formation")
       counter += 1
     if each_word == "131X":
       Basketballformations_list.append("131X")
-      information_list.append("this use in offense when the opponent is having a full court press and one person screens for one player and another person  runs down the court")
+      information_list.append("This use in offense when the opponent is having a full court press and one person screens for one player and another person  runs down the court")
       counter += 1
-
+ 
   if counter == 0:
     
       output = "Sorry I don't understand. Please use different words."
